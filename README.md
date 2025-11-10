@@ -27,7 +27,7 @@ Grupo de número <b>5</b> formado pelos integrantes mencionados abaixo.
 
 ## 📜 Descrição
 
-<b>Referência</b>: URL_PENDENTE
+<b>Referência</b>: https://on.fiap.com.br/mod/assign/view.php?id=537747&c=14504
 
 [...]
 
