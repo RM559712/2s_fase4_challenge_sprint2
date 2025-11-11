@@ -64,7 +64,7 @@ Para essa versão não são solicitados parâmetros para acesso como por exemplo
 
 ## 🗃 Histórico de lançamentos
 
-* 1.0.0 - 21/11/2025
+* 1.0.0 - 28/11/2025
 
 ## 📋 Licença
 
